@@ -11,7 +11,7 @@ Play as a student trapped in school after hours, trying to sneak past security g
 - AI: Guard patrol system and line-of-sight mechanics
 - Physics: Custom collision detection and movement
 
-## Demo Video
+## Video Demo
 https://youtu.be/ePfqu0RfBJE
 
 ## Controls
