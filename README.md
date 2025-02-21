@@ -12,17 +12,17 @@ Play as a student trapped in school after hours, trying to sneak past security g
 - Physics: Custom collision detection and movement
 
 ## Screenshots
-![school](https://github.com/user-attachments/assets/ebfd3f31-498b-4329-bedf-4fc130b1c2a9)
-![prisoner hint](https://github.com/user-attachments/assets/68ac71d6-5846-4d47-9100-efbc623bdb39)
-![pillow hint](https://github.com/user-attachments/assets/4730f0e7-0a2d-4088-ad69-326dabae0885)
-![onion hint](https://github.com/user-attachments/assets/d5e3934d-bfee-48cb-94b1-cebdbedb3e52)
-![riddles menu](https://github.com/user-attachments/assets/daa56f21-1670-468a-8266-0fce578ae477)
-![riddles solved menu](https://github.com/user-attachments/assets/44c0f88b-77b7-4e12-a36e-3639d2dd0a30)
-![game won](https://github.com/user-attachments/assets/ec693e6f-9d14-4107-bbad-d57e60356392)
-![dialog good answer scene](https://github.com/user-attachments/assets/b353e1a5-2f68-46bf-a7c7-ee70e1580e51)
-![passed the guard](https://github.com/user-attachments/assets/608aaec1-5c6b-44e3-a872-05efd5994e49)
-![dialog bad answer scene](https://github.com/user-attachments/assets/cb7ccd33-9c47-466c-9efd-89d80944dade)
-![game lose](https://github.com/user-attachments/assets/4a78e4f5-414f-41e0-960a-8cfde8be203f)
+![school](https://github.com/user-attachments/assets/2d1fec3a-921b-462a-b1c8-b95c4097c0fb)
+![prisoner hint](https://github.com/user-attachments/assets/d5704130-eeaa-40de-83b2-46b6678631fc)
+![pillow hint](https://github.com/user-attachments/assets/8fefa495-a609-47af-89fc-1681b200a0d3)
+![onion hint](https://github.com/user-attachments/assets/28ca8c7b-2983-4606-b822-76c633e1ab9c)
+![riddles menu](https://github.com/user-attachments/assets/14a31362-d34d-45eb-8d61-254b583971b9)
+![riddles solved menu](https://github.com/user-attachments/assets/0ae370cd-61bf-47c5-a6b8-2b37840258ed)
+![game won](https://github.com/user-attachments/assets/39ff2431-b04d-423d-841b-438f43d7bda4)
+![dialog good answer scene](https://github.com/user-attachments/assets/069a097d-7e11-483e-8509-a2ceb7a55870)
+![passed the guard](https://github.com/user-attachments/assets/bc4e8cd7-2a1f-4c36-bf4f-0b090450e8e1)
+![dialog bad answer scene](https://github.com/user-attachments/assets/f9d49c21-754d-4d72-933a-4ec4710e60f6)
+![game lose](https://github.com/user-attachments/assets/a391d7c4-7d08-4415-879c-8718df12dfb3)
 
 ## Video Demo
 https://youtu.be/ePfqu0RfBJE
